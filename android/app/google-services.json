@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864926055694",
+    "firebase_url": "https://yobook-3bf71.firebaseio.com",
+    "project_id": "yobook-3bf71",
+    "storage_bucket": "yobook-3bf71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864926055694:android:74bad93112cfb09d79eb5f",
+        "android_client_info": {
+          "package_name": "com.example.Yobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864926055694-s84mptvqsulmoio5cqoef2jnlb6t9i23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Yobook",
+            "certificate_hash": "cb1c378dfe932a7dd65400a73b73cd6f2358da3c"
+          }
+        },
+        {
+          "client_id": "864926055694-tfs01pvqbvghaev38avt822ubgvba0ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQiTGe5UGuLs8jHfcQtxlV8OURor4Xfco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864926055694-tfs01pvqbvghaev38avt822ubgvba0ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
